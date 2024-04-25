@@ -2,7 +2,13 @@
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas19fonseca&show_icons=true&theme=dracula)
 
 ### Linguagens e Estruturas
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img align="center" alt="html5" src="" />
+   <img align="center" alt="html5" src="" />
+   <img align="center" alt="html5" src="" />
+</div>
 
 
 ### Contato
