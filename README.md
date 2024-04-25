@@ -1,7 +1,7 @@
-###oi!meu nome é Lucas
+### oi!meu nome é Lucas
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas19fonseca&show_icons=true&theme=radical)
 
-###Linguagens e Estruturas
+### Linguagens e Estruturas
 
 
 ### Contato
