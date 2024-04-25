@@ -5,5 +5,6 @@
 )](https://www.instagram.com/lucax.af/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/lucas-andrade-5511022b3/)
+![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas19fonseca&show_icons=true&theme=radical)
 
 
