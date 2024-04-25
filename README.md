@@ -2,6 +2,7 @@
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas19fonseca&show_icons=true&theme=radical)
 
 ### Linguagens e Estruturas
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 
 
 ### Contato
