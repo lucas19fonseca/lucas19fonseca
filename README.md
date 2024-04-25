@@ -1,5 +1,5 @@
 ### Oi! Meu nome é Lucas
-![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas19fonseca&show_icons=true&theme=radical)
+![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas19fonseca&show_icons=true&theme=white)
 
 ### Linguagens e Estruturas
 https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
