@@ -1,4 +1,4 @@
-### hello! My name is Lucas Fonseca
+### Hello! My name is Lucas Fonseca
 
 ### Linguagens e Estruturas
 <div style="display: inline_block"><br/>
