@@ -1,4 +1,4 @@
-### Oi! Meu nome é Lucas
+### hello! My name is Lucas Fonseca
 
 ### Linguagens e Estruturas
 <div style="display: inline_block"><br/>
