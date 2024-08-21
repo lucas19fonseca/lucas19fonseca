@@ -1,3 +1,13 @@
+Olá! Meu nome é Lucas Zoser.
+🔭 Estutande de ciências da computação.
+🌱 Atualmente estou aprendendo SQL.
+📫 Entre em contato comigo em: lucas19fonseca@gmail.com
+
+
+
+
+
+
 ### Hello! My name is Lucas Fonseca
 
 ### Linguagens e Estruturas
