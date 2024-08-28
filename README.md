@@ -7,13 +7,9 @@ Olá! Meu nome é Lucas Fonseca.
 📫 Entre em contato comigo em: lucas19fonseca@gmail.com.<br/>
 
 <div style="display: inline_block">
-<img align="center" alt="html5" src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)" />
-  
- <img align="center" alt="css" src="[https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)" />
-  
- <img align="center" alt="Py" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
-  
-  <img align="center" alt="sql" src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.icons8.com/?size=100&id=39855&format=png&color=000000)" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> <br>
 
 
