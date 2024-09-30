@@ -15,7 +15,7 @@ Olá! Meu nome é Lucas Fonseca.
 <hr>
  Back-end
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Golang" height="30" width="40" src="(https://img.icons8.com/color/60/000000/golang.png)">
+  <img align="center" alt="Golang" height="30" width="40" src="https://img.icons8.com/color/60/000000/golang.svg">
 
 
 
