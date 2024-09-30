@@ -6,7 +6,7 @@ Olá! Meu nome é Lucas Fonseca.
 
 📫 Entre em contato comigo em: lucas19fonseca@gmail.com.<br/>
 <hr>
-Front-end<br/>
+Front-end.<br/>
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
