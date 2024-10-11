@@ -4,7 +4,7 @@ Olá! Meu nome é Lucas Fonseca.
 
 📓 Confira meu site: https://lucas19fonseca.github.io/curriculo/
 
-🌱 Atualmente estou aprendendo SQL.
+🌱 Atualmente estou estudando SQL.
 
 📫 Entre em contato comigo em: lucas19fonseca@gmail.com.<br/>
 
