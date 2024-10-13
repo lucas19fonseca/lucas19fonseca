@@ -2,7 +2,7 @@ Olá! Meu nome é Lucas Fonseca.
 
 🔭 Estutande de ciências da computação.
 
-📓 Confira meu site: <a href="[https://example.com](https://lucas19fonseca.github.io/curriculo/](https://lucas19fonseca.github.io/curriculo/)" target="_blank">Aqui!</a>
+📓 Confira meu site: <a href="https://lucas19fonseca.github.io/curriculo/" target="_blank">Aqui!</a>
 
 
 
