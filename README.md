@@ -22,8 +22,8 @@ Olá! Meu nome é Lucas Fonseca.
 
 
 ### Contato
-<a href="https://www.instagram.com/lucax.af/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="55" width="55" /></a>
-<a href="https://www.linkedin.com/in/lucas-andrade-5511022b3/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="55" width="55" /></a>
+<a href="https://www.instagram.com/lucax.af/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/lucas-andrade-5511022b3/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="50" width="50" /></a>
 
 
 
