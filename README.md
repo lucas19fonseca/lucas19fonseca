@@ -6,7 +6,7 @@ Olá! Meu nome é Lucas Fonseca.
 
 
 
-🌱 Atualmente estou estudando SQL.
+
 
 📫 Entre em contato comigo em: [Gmail](mailto:lucas19fonseca@gmail.com) 
 
