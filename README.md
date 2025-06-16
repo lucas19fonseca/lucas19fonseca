@@ -17,6 +17,7 @@ Olá! Meu nome é Lucas Fonseca.
    <img align="center" alt="React" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwindcss" height="35" width="40" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000">
  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mysql" height="30" width="35" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
 </div> 
 <hr>
 
