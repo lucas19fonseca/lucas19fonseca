@@ -20,7 +20,7 @@ Olá! Meu nome é Lucas Fonseca.
  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mysql" height="30" width="35" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
   <img align="center" alt="Docker" height="45" width="40" src="https://github.com/user-attachments/assets/e04b5f43-9cae-4d0e-8bab-0d5eccf84807">
-  <img align="center" alt="Linux" height="45" width="35" src="https://github.com/user-attachments/assets/24e2cd8d-73c2-40b4-953e-b047b3494a38">
+  <img align="center" alt="Linux" height="35" width="35" src="https://github.com/user-attachments/assets/24e2cd8d-73c2-40b4-953e-b047b3494a38">
 </div> 
 <hr>
 
