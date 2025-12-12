@@ -2,13 +2,19 @@ Olá! Meu nome é Lucas Fonseca.
 
 🔭 Estutande de ciências da computação.
 
-📓 Confira meu site: <a href="https://lucas-andrade.vercel.app/" target="blank">Aqui!</a>
-
-
-
-
-
+📓 Confira meu site: <a href="https://lucas-andrade.vercel.app/" target="blank">Aqui!</a><br/>
 📫 Entre em contato comigo em: lucas19fonseca@gmail.com 
+
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucas19fonseca&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas19fonseca&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+
 
 
 <div style="display: inline_block">
