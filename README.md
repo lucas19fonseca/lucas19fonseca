@@ -1,7 +1,6 @@
 Olá! Meu nome é Lucas Fonseca.
 
 🔭 Estutande de ciências da computação.
-
 📓 Confira meu site: <a href="https://lucas-andrade.vercel.app/" target="blank">Aqui!</a><br/>
 📫 Entre em contato comigo em: lucas19fonseca@gmail.com 
 
