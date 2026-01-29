@@ -1,12 +1,7 @@
-Olá! Meu nome é Lucas Fonseca.
-
-🔭 Estutande de ciências da computação.
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins+Bold&size=30&pause=500&color=ffff&start=true&vstart=true&width=1200&height=50&lines=Hey%2C+I'm+Lucas+Fonseca!" alt="Typing SVG" />
+</h3>
 📓 Confira meu site: <a href="https://lucas-andrade.vercel.app/" target="blank">Aqui!</a>
-
-
-
-
 
 📫 Entre em contato comigo em: lucas19fonseca@gmail.com 
 
