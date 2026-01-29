@@ -16,9 +16,6 @@
 
 
 <p align="start">
-  <img alt="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img alt="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" height="35" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
   <img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img alt="Tailwind" height="35" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"/>
   <img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
