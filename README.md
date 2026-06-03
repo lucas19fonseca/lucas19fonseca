@@ -23,6 +23,7 @@
   <img alt="Docker" height="35" src="https://github.com/user-attachments/assets/e04b5f43-9cae-4d0e-8bab-0d5eccf84807"/>
   <img alt="Linux" height="35" src="https://github.com/user-attachments/assets/24e2cd8d-73c2-40b4-953e-b047b3494a38"/>
   <img alt="Git" height="35" src="https://github.com/user-attachments/assets/32afd89e-892b-482a-ab20-da219bd2a32b"/>
+  <img alt="Golang" height="35" src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000"/>
 </p>
 
 ---
