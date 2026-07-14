@@ -31,7 +31,7 @@
 <h3 align="start">📬 Contato</h3>
 
 <p align="start">
-  <a href="https://www.instagram.com/lucax.andrade_/" target="_blank">
+  <a href="https://www.instagram.com/lucas.andradf/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-andrade-5511022b3/" target="_blank">
